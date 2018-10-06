@@ -2,10 +2,11 @@
 
 ### Pre-requis :
 - Pc
-- Switch
+- Nintendo Switch
 - fer a souder
 - Trinket M0
 - Tournevis
+- Kynar
 
 ## Software
 - Installer le logiciel arduino : `sudo pacman -S arduino`
@@ -35,7 +36,23 @@ Puis compiler et uploader le code dans le Trinket : `Sketch->Verify/Compile`, `S
 
 ## Hardware
 
-Soon ... 
+#### Preparation du Trinket M0 :
+
+Desouder le port micro usb.
+Dessouder la resistance comme sur la photo.
+
+[PHOTO]
+
+#### Preparation de la Switch :
+Demonter la plaque arriere de la console.
+Pour ca, il faut retirer les 2 railles pour les joycons, les 6 vis derriere la console et la vis au niveau de la micro SD
+
+Puis enlever la plaque metalique.
+
+Debrancher la batterie.
+
+
+
 
 ### Thank's too :
 
